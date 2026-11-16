@@ -13,6 +13,10 @@ Arcade Vault: una plataforma en línea para jugar y competir por la mayor cantid
 - `npm run lint` — ESLint (configuración flat en `eslint.config.mjs`, usa `eslint-config-next`)
 - Aún no hay un ejecutor de pruebas configurado.
 
+## Skills
+
+Usa siempre /frontend-design para diseñar interfaces de usuario.
+
 ## Advertencia sobre la versión de Next.js
 
 Next.js 16.4.6 con React 19.3: tiene cambios incompatibles respecto a versiones anteriores. Según `AGENTS.md`, lee la guía correspondiente en `node_modules/next/dist/docs/` (`01-app`, `02-pages`, `03-architecture`, ...) antes de escribir código de Next.js y presta atención a los avisos de deprecación. `next dev` regenera `AGENTS.md` automáticamente.
